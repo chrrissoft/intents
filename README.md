@@ -14,4 +14,6 @@ Intents App can build any type of intent, it can:<br>
 ## 💚💚💚💚💚 Common Intents 💚💚💚💚💚
 Intents App can request a component to perform an action an get the best candidate for that action
 
-I think that the background work in android is maybe the most important behavior, and i love to know about it. I did enjoy a lot billing this app and I did learn a lot of things 💚.
+Both Main App and Companion App define signature permissions to start their components.
+
+I think that the comunication with components in Android development is an important behavior, and i love to know about it. I did enjoy a lot billing this app and I did learn a lot of things 💚.
